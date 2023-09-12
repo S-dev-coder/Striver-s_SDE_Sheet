@@ -83,18 +83,18 @@ using namespace std;
     }
 
 
-int main() {
-  int n = 4; // we are taking 4*4 grid and 4 queens
-  Solution obj;
-  vector < vector < string >> ans =solveNQueens(n);
-  for (int i = 0; i < ans.size(); i++) {
-    cout << "Arrangement " << i + 1 << "\n";
-    for (int j = 0; j < ans[0].size(); j++) {
-      cout << ans[i][j];
-      cout << endl;
-    }
-    cout << endl;
-  }
-  return 0;
-}
+// int main() {
+//   int n = 4; // we are taking 4*4 grid and 4 queens
+//   Solution obj;
+//   vector < vector < string >> ans =solveNQueens(n);
+//   for (int i = 0; i < ans.size(); i++) {
+//     cout << "Arrangement " << i + 1 << "\n";
+//     for (int j = 0; j < ans[0].size(); j++) {
+//       cout << ans[i][j];
+//       cout << endl;
+//     }
+//     cout << endl;
+//   }
+//   return 0;
+// }
 
