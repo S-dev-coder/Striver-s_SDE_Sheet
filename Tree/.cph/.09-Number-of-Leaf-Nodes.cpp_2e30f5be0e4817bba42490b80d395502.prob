@@ -1,0 +1,1 @@
+{"name":"Local: 09-Number-of-Leaf-Nodes","url":"c:\\Users\\akuma\\C++\\DSA\\Module-11-Tree\\09-Number-of-Leaf-Nodes.cpp","tests":[{"id":1677782967055,"input":"10 3 20 30 40 2 40 50 0 0 0 0","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\akuma\\C++\\DSA\\Module-11-Tree\\09-Number-of-Leaf-Nodes.cpp","group":"local","local":true}
