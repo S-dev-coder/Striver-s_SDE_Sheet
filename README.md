@@ -14,7 +14,7 @@
 
 **Q4.** [Remove N-th node from back of LinkedList](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)[(Solution)](/Linked_list/Q4.removenth_node_from_end.cpp)
 
-**Q5.** [Add two numbers as LinkedList](hhttps://leetcode.com/problems/add-two-numbers/)[(Solution)](/Linked_list/Q5.Add_two_numbers_represented_as_Linked_Lists.cpp)
+**Q5.** [Add two numbers as LinkedList](https://leetcode.com/problems/add-two-numbers/)[(Solution)](/Linked_list/Q5.Add_two_numbers_represented_as_Linked_Lists.cpp)
 
 **Q6.** [Delete a given Node when a node is given.](https://leetcode.com/problems/delete-node-in-a-linked-list/)[(Solution)](/Linked_list/Q6.Delete_given_node_in_a_Linked_List-%3A-O(1)_approach.cpp)
 
