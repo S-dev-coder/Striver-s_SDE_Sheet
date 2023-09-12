@@ -44,3 +44,26 @@
 
 
 
+### Recursion
+
+**Q1.** [Subset_sum](https://practice.geeksforgeeks.org/problems/subset-sums2234/1)[(Solution)](/Recursion/Q1.Subset_sum.cpp)
+
+**Q2.** [Subset-II](https://leetcode.com/problems/subsets-ii/)[(Solution)](/Recursion/Q2.Subset2.cpp)
+
+**Q3.** [Combination sum-1](https://leetcode.com/problems/combination-sum/)[(Solution)](/Recursion/Q3.Combination_Sum1.cpp)
+
+**Q4.** [Combination sum-2](https://leetcode.com/problems/combination-sum-ii/)[(Solution)](/Recursion/Q4.Combination_Sum2.cpp)
+
+**Q5.** [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)[(Solution)](/Recursion/Q5.Palindrome_Partitioning.cpp)
+
+**Q6.** [K-th permutation Sequence](https://leetcode.com/problems/permutation-sequence/)[(Solution)](/Recursion/Q6.Kth_Permutations.cpp)
+
+**Q7.** [Print all permutations of a string/arrayt](https://leetcode.com/problems/permutations/)[(Solution)](/Recursion/Q7.Print_Permutations.cpp)
+
+**Q8.** [N queens Problem](https://leetcode.com/problems/n-queens/)[(Solution)](/Recursion/Q8.N_Queen.cpp)
+
+**Q9.** [Sudoko Solver](https://leetcode.com/problems/sudoku-solver/)[(Solution)](/Recursion/Q9.Sudoko_Solver.cpp)
+
+**Q10.** [M Coloring Problem](https://practice.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1#)[(Solution)](/Recursion/Q10.M_Coloring.cpp)
+
+**Q11.** [Rat in a Maze](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1)[(Solution)](/Recursion/Q11.Rat_Maze.cpp)
