@@ -71,5 +71,16 @@
 
 ### Arrays
 
+**Q1.** [Set matrix](https://leetcode.com/problems/set-matrix-zeroes/)[(Solution)](/Arrays/Q1.Set_Matrix_0.cpp)
+
+**Q2.** [Pascals Triangle](https://leetcode.com/problems/pascals-triangle/)[(Solution)](/Arrays/Q2.PascalsTriangle.cpp)
+
+**Q3.** [Next Permutation](https://leetcode.com/problems/next-permutation/)[(Solution)](/Arrays/Q3.Next_Permutations.cpp)
+
+**Q4.** [Kadanes algo](https://leetcode.com/problems/maximum-subarray/)[(Solution)](/Arrays/Q4.KadanesAlgorithm.cpp)
+
+**Q5.** [Sort 012](https://leetcode.com/problems/sort-colors/)[(Solution)](/Arrays/Q5.Sort_012.cpp)
+
+**Q6.** [Buy Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)[(Solution)](/Arrays/Q6.BuySellStock.cpp)
 
 
