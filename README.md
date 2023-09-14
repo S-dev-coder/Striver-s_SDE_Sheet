@@ -83,4 +83,5 @@
 
 **Q6.** [Buy Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)[(Solution)](/Arrays/Q6.BuySellStock.cpp)
 
+**Q7.** [Rotate_Image](https://leetcode.com/problems/rotate-image/)[(Solution)](/Arrays/Q7.Rotate_Image.cpp)
 
