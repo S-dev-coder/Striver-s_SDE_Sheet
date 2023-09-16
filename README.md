@@ -85,3 +85,12 @@
 
 **Q7.** [Rotate_Image](https://leetcode.com/problems/rotate-image/)[(Solution)](/Arrays/Q7.Rotate_Image.cpp)
 
+**Q8.** [Merge_Overlapping](https://leetcode.com/problems/merge-intervals/)[(Solution)](/Arrays/Q8.Merge_Overlapping.cpp)
+
+**Q9.** [Merge_Arrays](https://leetcode.com/problems/merge-sorted-array/)[(Solution)](/Arrays/Q9.Merge_Arrays.cpp)
+
+**Q10.** [Dublicates](https://leetcode.com/problems/find-the-duplicate-number/)[(Solution)](/Arrays/Q10.Dublicates.cpp)
+
+**Q11.** [Count_Inversions](https://www.codingninjas.com/codestudio/problems/count-inversions_615)[(Solution)](/Arrays/Q11.Count_INversions.cpp)
+
+**Q12.** [RepeatingMissing](https://bit.ly/3Gs6wZu)[(Solution)](/Arrays/Q12.RepeatingMissing.cpp)
