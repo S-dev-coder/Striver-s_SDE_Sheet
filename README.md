@@ -110,3 +110,9 @@
 **Q19.** [4Sum](https://leetcode.com/problems/4sum/)[(Solution)](/Arrays/Q19.4Sum.cpp)
 
 **Q20.** [Longest_Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)[(Solution)](/Arrays/Q20.Longest_Sequence.cpp)
+
+**Q21.** [Largest Subarray](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1)[(Solution)](/Arrays/Q21.Largest_Subarray.cpp)
+
+**Q22.** [COUNT_XOR](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1)[(Solution)](/Arrays/Q22.Count_XOR.cpp)
+
+**Q23.** [Longest Substring](https://practice.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1)[(Solution)](/Arrays/Q23.Longest_Substring.cpp)
