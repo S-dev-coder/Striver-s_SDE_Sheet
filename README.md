@@ -94,3 +94,19 @@
 **Q11.** [Count_Inversions](https://www.codingninjas.com/codestudio/problems/count-inversions_615)[(Solution)](/Arrays/Q11.Count_INversions.cpp)
 
 **Q12.** [RepeatingMissing](https://bit.ly/3Gs6wZu)[(Solution)](/Arrays/Q12.RepeatingMissing.cpp)
+
+**Q13.** [Search_Matrix](https://leetcode.com/problems/search-a-2d-matrix/)[(Solution)](/Arrays/Q13.Search_Matrix.cpp)
+
+**Q14.** [RepeatingMissing](https://leetcode.com/problems/powx-n/)[(Solution)](/Arrays/Q14.Power.cpp)
+
+**Q15.** [MajorityElement](https://leetcode.com/problems/majority-element/)[(Solution)](/Arrays/Q15.MajorityElement.cpp)
+
+**Q16.** [Grid_Paths](https://leetcode.com/problems/unique-paths/)[(Solution)](/Arrays/Q16.Grid_Paths.cpp)
+
+**Q17.** [reverse-pairs](https://leetcode.com/problems/reverse-pairs/)[(Solution)](/Arrays/Q17.Reverse_Pairs.cpp)
+
+**Q18.** [2Sum](https://leetcode.com/problems/two-sum/)[(Solution)](/Arrays/Q18.2Sum.cpp)
+
+**Q19.** [4Sum](https://leetcode.com/problems/4sum/)[(Solution)](/Arrays/Q19.4Sum.cpp)
+
+**Q20.** [Longest_Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)[(Solution)](/Arrays/Q20.Longest_Sequence.cpp)
